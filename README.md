@@ -3,12 +3,14 @@
 lib : tensorflow, keras
 
 epochs =
+
 batchsize = 
 
 model_input = train dataset(노이즈를 추가한 이미지 셋)
 model_output = cleaned dataset(노이즈가 없는 원본 이미지 셋)
 
 intput = test image
+
 output = result image
 
 이미지 사이즈 1024x1024

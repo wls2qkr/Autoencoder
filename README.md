@@ -2,9 +2,9 @@
 
 lib : tensorflow, keras
 
-epochs =
+epochs = 240
 
-batchsize = 
+batchsize = 8
 
 model_input = train dataset(노이즈를 추가한 이미지 셋)
 model_output = cleaned dataset(노이즈가 없는 원본 이미지 셋)

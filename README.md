@@ -8,7 +8,9 @@ DIV2K dataset -> image size 조절 -> original folder
 original + nosie -> train (addnoise.py)
 
 original folder (cleaned images)
+
 train folder (noised images)
+
 test folder (test images)
 
 - output

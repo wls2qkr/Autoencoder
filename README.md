@@ -1,23 +1,24 @@
 # Autoencoder
 
-#### input
+#### dataset
 dataset : [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
 DIV2K dataset -> image size 조절 -> original folder
 
+#### add noise
 original + nosie -> train (addnoise.py)
 
+#### input
 original folder (cleaned images)
-
 train folder (noised images)
-
 test folder (test images)
 
 #### output
 test_result (result images)
 
 ##### use version
-Python(anaconda) : , tensorflow
+Python 3.7, Anaconda 가상환경 사용
 
+tensorflow 2.3
 
 ##### model
 ![image](https://user-images.githubusercontent.com/40592785/113293154-5f35b280-9330-11eb-82a8-783a20a98d81.png)

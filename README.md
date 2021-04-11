@@ -1,4 +1,4 @@
-## 이미지 디노이징 Autoencoder
+### 이미지 디노이징 Autoencoder
 
 #### dataset
 dataset : [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
